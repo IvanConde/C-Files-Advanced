@@ -1,0 +1,6 @@
+ragnar jose;1;M;5;58;201812;2
+ivan beio;20;B;4;24;199806;2
+roberto carlos;19;M;25;6;200902;1
+zeus pepe;13;B;9;4;200307;1
+ivana perchia;45;R;5;26;197212;1
+hugo conde;63;M;3;94;196302;1
